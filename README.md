@@ -11,9 +11,9 @@
 <h1 align="center">NestJSX Automapper</h1>
 <p align="center">A wrapper around <a href="https://github.com/nartc/mapper">@nartc/automapper</a> to be used with <strong>NestJS</strong> as a <code>Module</code>.</p>
 
-## Announcement
+# Announcement
 
-`@nartc/automapper` (which is what this wrapper wraps around) has been broken up into a monorepo and released as under the scope `@automapper/*`. With that change, NestJS wrapper is also under that same scope as `@automapper/nestjs`. Please take a look at the [documentations](https://automapperts.netlify.app) for Migration Guide.
+#### `@nartc/automapper` (which is what this wrapper wraps around) has been broken up into a monorepo and released as under the scope `@automapper/*`. With that change, NestJS wrapper is also under that same scope as `@automapper/nestjs`. Please take a look at the [documentations](https://automapperts.netlify.app). For Migrations, please see [migrations guide](https://automapperts.netlify.app/docs/migrations#migrate-from-nestjsx-automapper)
 
 ## Migrations
 
